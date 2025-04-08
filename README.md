@@ -1,5 +1,6 @@
 # Linear-Block-Code
 ## Aim
+The aim of this program is to simulate the Linear block code(LBC)
 ## Tools Required
 ## Program
 ```
